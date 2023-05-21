@@ -1,0 +1,29 @@
+body{
+	text-align: center;
+	background: white;
+	align-content: center;
+}
+
+#p1{
+	color: cyan;
+	font-size: 50px;
+	font-family: arial;
+}
+#p2{
+	color: green;
+	font-size: 50px;
+	font-family: arial;
+}
+#contenedor{
+	display:flex;
+	align-items: center;
+	 justify-content: center;
+	 height: 400px
+}
+
+#contenedor a{
+	padding:300px;
+	text-decoration: none;
+	font-size: 40px;
+	color: black;
+}
